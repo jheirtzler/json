@@ -1,11 +1,14 @@
-[
-   {
-      "nane": "tiger"
-   },
-   {
-      "nane": "leopard"
-   },
-   {
-      "nane": "lion"
-   }
-]
+{
+   cats:
+   [
+      {
+         "nane": "tiger"
+      },
+      {
+         "nane": "leopard"
+      },
+      {
+         "nane": "lion"
+      }
+   ]
+
