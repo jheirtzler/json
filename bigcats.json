@@ -1,11 +1,11 @@
 [
    {
-      name: "tiger"
+      "nane": "tiger"
    },
    {
-      name: "leopard"
+      "nane": "leopard"
    },
    {
-      name: "lion"
+      "nane": "lion"
    }
 ]
